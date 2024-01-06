@@ -28,3 +28,5 @@ The Bill Splitter  is a simple React application designed to help users keep tra
     - Enter the bill amount, your expense, and select who is paying the bill.
     - Click "Split bill" to update the balances.
 
+
+![Scrrenshot of Application](images/Bill-Split-Form.jpg)
